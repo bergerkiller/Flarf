@@ -1,0 +1,10 @@
+name: Flarf
+main: com.bergerkiller.bukkit.flarf.Flarf
+version: 1.0
+author: bergerkiller
+description: Plugin for the famous Flarf game
+commands:
+    flarf:
+        description: Commands for the Flarf plugin
+        aliases: [fl]
+        usage: Simply type /flarf for usage.
